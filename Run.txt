@@ -1,0 +1,13 @@
+cd (Your Path)
+
+python
+
+quit()
+
+python -m venv env
+
+.\env\Scripts\activate
+
+pip install -r requirements.txt
+
+python lichess-bot.py -u
